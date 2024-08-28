@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning react + ts
 - 💞️ I’m looking to collaborate with you (an internship position)
-- 📫 How to reach me: kattya.sagun@gmail.com
+- 📫 How to reach me: kattya.sahun@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been working as organic chemist for 5 years and have 2 publications(as co-author) in international scientific journals( one of them is still under publication).
 
