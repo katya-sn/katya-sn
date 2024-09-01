@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @katya-sn
-- 👀 I’m interested in frontend
+- 👋 Hi, I’m a Frontend Developer (Js, React, Redux. Ts)
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate with you (React based projects)
 - 📫 How to reach me: kateryna.sahun@gmail.com
